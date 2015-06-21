@@ -6,7 +6,6 @@
 //
 //
 
-#include "Sum of Primes.h"
 #include <iostream>
 
 bool primes(number);
